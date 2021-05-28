@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ctomektc519
 - 👀 I’m interested in walking mountains, movies and producing tinctures
-- 🌱 I’m currently learning C#, MSsQl
+- 🌱 I’m currently learning: C#, MSsQl
 - 📫 How to reach me: ctomek@o2.pl
 
 <!---
